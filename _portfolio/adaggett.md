@@ -1,8 +1,7 @@
 ---
 layout: post
-title: adaggett.com
-feature-img: "adaggettpic.png"
-thumbnail-path: "http://www.adaggett.com"
+title: "http://www.adaggett.com"
+
 short-description: Adrianne Daggett, My First Commissioned Site
 
 ---
